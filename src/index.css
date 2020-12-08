@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.jumbotron{
+  background-color: crimson;
+  padding: 50px;
+  text-align: center;
+  color: #fff;
+}
+
+.display-1{
+  margin-bottom: 30px;
+}
+
+.food{
+  font-size: 80px;
+}
+
+.input{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.input input{
+  width: 50%;
+}
+
+.cont{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.card{
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+  box-shadow: 5px 5px 15px #666;
+  height: 600px;
+}
+
+.card img{
+  border-radius: 7px;
+  margin: 4px;
+}
+
+.card h3{
+  color: crimson;
+}
+
+.card ul{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  overflow-y: scroll;
+}
+
+.card ul li{
+  list-style: none;
+}
