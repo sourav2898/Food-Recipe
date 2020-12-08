@@ -1,4 +1,4 @@
-This Project is a Simple ReactJS Project which demonstrates the following
+This Project is a Simple ReactJS Project which demonstrates the following:
 
 Creating a Component in React | 
 Making HTTP calls | 
